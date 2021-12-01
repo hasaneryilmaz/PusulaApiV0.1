@@ -1,0 +1,10 @@
+D:\Data\Documents\Visual Studio 2019\Projects\PauApiV0.1\Pau.Entities\bin\Debug\netcoreapp3.1\Pau.Entities.deps.json
+D:\Data\Documents\Visual Studio 2019\Projects\PauApiV0.1\Pau.Entities\bin\Debug\netcoreapp3.1\Pau.Entities.dll
+D:\Data\Documents\Visual Studio 2019\Projects\PauApiV0.1\Pau.Entities\bin\Debug\netcoreapp3.1\Pau.Entities.pdb
+D:\Data\Documents\Visual Studio 2019\Projects\PauApiV0.1\Pau.Entities\obj\Debug\netcoreapp3.1\Pau.Entities.csproj.AssemblyReference.cache
+D:\Data\Documents\Visual Studio 2019\Projects\PauApiV0.1\Pau.Entities\obj\Debug\netcoreapp3.1\Pau.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\Documents\Visual Studio 2019\Projects\PauApiV0.1\Pau.Entities\obj\Debug\netcoreapp3.1\Pau.Entities.AssemblyInfoInputs.cache
+D:\Data\Documents\Visual Studio 2019\Projects\PauApiV0.1\Pau.Entities\obj\Debug\netcoreapp3.1\Pau.Entities.AssemblyInfo.cs
+D:\Data\Documents\Visual Studio 2019\Projects\PauApiV0.1\Pau.Entities\obj\Debug\netcoreapp3.1\Pau.Entities.csproj.CoreCompileInputs.cache
+D:\Data\Documents\Visual Studio 2019\Projects\PauApiV0.1\Pau.Entities\obj\Debug\netcoreapp3.1\Pau.Entities.dll
+D:\Data\Documents\Visual Studio 2019\Projects\PauApiV0.1\Pau.Entities\obj\Debug\netcoreapp3.1\Pau.Entities.pdb

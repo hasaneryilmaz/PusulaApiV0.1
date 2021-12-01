@@ -1,0 +1,15 @@
+D:\Data\Documents\Visual Studio 2019\Projects\PauApiV0.1\Pau.Business\bin\Debug\netcoreapp3.1\Pau.Business.deps.json
+D:\Data\Documents\Visual Studio 2019\Projects\PauApiV0.1\Pau.Business\bin\Debug\netcoreapp3.1\Pau.Business.dll
+D:\Data\Documents\Visual Studio 2019\Projects\PauApiV0.1\Pau.Business\bin\Debug\netcoreapp3.1\Pau.Business.pdb
+D:\Data\Documents\Visual Studio 2019\Projects\PauApiV0.1\Pau.Business\bin\Debug\netcoreapp3.1\Pau.DataAccess.dll
+D:\Data\Documents\Visual Studio 2019\Projects\PauApiV0.1\Pau.Business\bin\Debug\netcoreapp3.1\Pau.Entities.dll
+D:\Data\Documents\Visual Studio 2019\Projects\PauApiV0.1\Pau.Business\bin\Debug\netcoreapp3.1\Pau.DataAccess.pdb
+D:\Data\Documents\Visual Studio 2019\Projects\PauApiV0.1\Pau.Business\bin\Debug\netcoreapp3.1\Pau.Entities.pdb
+D:\Data\Documents\Visual Studio 2019\Projects\PauApiV0.1\Pau.Business\obj\Debug\netcoreapp3.1\Pau.Business.csproj.AssemblyReference.cache
+D:\Data\Documents\Visual Studio 2019\Projects\PauApiV0.1\Pau.Business\obj\Debug\netcoreapp3.1\Pau.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\Documents\Visual Studio 2019\Projects\PauApiV0.1\Pau.Business\obj\Debug\netcoreapp3.1\Pau.Business.AssemblyInfoInputs.cache
+D:\Data\Documents\Visual Studio 2019\Projects\PauApiV0.1\Pau.Business\obj\Debug\netcoreapp3.1\Pau.Business.AssemblyInfo.cs
+D:\Data\Documents\Visual Studio 2019\Projects\PauApiV0.1\Pau.Business\obj\Debug\netcoreapp3.1\Pau.Business.csproj.CoreCompileInputs.cache
+D:\Data\Documents\Visual Studio 2019\Projects\PauApiV0.1\Pau.Business\obj\Debug\netcoreapp3.1\Pau.Business.csproj.CopyComplete
+D:\Data\Documents\Visual Studio 2019\Projects\PauApiV0.1\Pau.Business\obj\Debug\netcoreapp3.1\Pau.Business.dll
+D:\Data\Documents\Visual Studio 2019\Projects\PauApiV0.1\Pau.Business\obj\Debug\netcoreapp3.1\Pau.Business.pdb
