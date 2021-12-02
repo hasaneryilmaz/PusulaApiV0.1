@@ -3,6 +3,10 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Pau.Business.Abstract;
+using Pau.Business.Concrete;
+using Pau.DataAccess.Abstract;
+using Pau.DataAccess.Concrete;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,6 +21,20 @@ namespace Pau.API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddSingleton<IUserService, UserManager>();
+            services.AddSingleton<IUserRepository, UserRepository>();
+            services.AddSwaggerDocument(config =>
+            {
+                config.PostProcess = (doc =>
+                {
+                    doc.Info.Title = "Pusula Api";
+                    doc.Info.Version = "0.1";
+                    doc.Info.Contact = new NSwag.OpenApiContact()
+                    { 
+                        Name = "Hasan ERYILMAZ / Emrehan Kýsacýk"
+                    };
+                });
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -28,6 +46,9 @@ namespace Pau.API
             }
 
             app.UseRouting();
+
+            app.UseOpenApi();
+            app.UseSwaggerUi3();
 
             app.UseEndpoints(endpoints =>
             {

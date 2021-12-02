@@ -11,9 +11,11 @@ namespace Pau.Entities
         public int Id { get; set; }
 
         [StringLength(50)]
+        [Required]
         public string Username { get; set; }
 
         [StringLength(50)]
+        [Required]
         public string Usermail { get; set; }
 
 

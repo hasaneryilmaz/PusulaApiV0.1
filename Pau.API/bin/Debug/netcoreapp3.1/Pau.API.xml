@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Pau.API</name>
+    </assembly>
+    <members>
+        <member name="M:Pau.API.Controllers.UsersController.Get">
+            <summary>
+            Tüm kullanıcıları getirmek için kullanılır
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Pau.API.Controllers.UsersController.Get(System.Int32)">
+            <summary>
+            id si verilen kullanıcıyı getirmek için kullanılır
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Pau.API.Controllers.UsersController.Post(Pau.Entities.User)">
+            <summary>
+            Kullanıcı eklemek için kullanılır
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

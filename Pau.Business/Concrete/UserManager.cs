@@ -13,9 +13,9 @@ namespace Pau.Business.Concrete
 
         private IUserRepository _userRepository;
 
-        public UserManager()
+        public UserManager(IUserRepository userRepository)
         {
-            _userRepository = new UserRepository();
+            _userRepository = userRepository;
         }
 
 
@@ -36,7 +36,13 @@ namespace Pau.Business.Concrete
 
         public User GetUserById(int id)
         {
-            return _userRepository.GetUserById(id);
+            if(id > 0)
+            {
+                return _userRepository.GetUserById(id);
+            }
+
+            throw new Exception("Id 1 den küçük olamaz");
+            
         }
 
         public User UpdateUser(User user)

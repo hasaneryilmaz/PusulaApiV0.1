@@ -4,6 +4,14 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>D:\Data\Documents\Visual Studio 2019\Projects\PauApiV0.1\PusulaApiV0.1\Pau.API\Pau.API.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NSwag.AspNetCore" Version="13.5.0" />
+  </ItemGroup>
+
   <ItemGroup>
     <ProjectReference Include="..\Pau.Business\Pau.Business.csproj" />
   </ItemGroup>
