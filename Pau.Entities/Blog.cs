@@ -1,27 +1,27 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Text;
 
 namespace Pau.Entities
 {
-    public class User
+    public class Blog
     {
 
-        [Key,DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        [Key, DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
 
         [StringLength(50)]
         [Required]
-        public string Username { get; set; }
+        public string Title { get; set; }
 
         [StringLength(50)]
         [Required]
-        public string Usermail { get; set; }
+        public string Content { get; set; }
 
         [StringLength(50)]
         [Required]
-        public string Userpass { get; set; }
-
-
+        public string User_id { get; set; }
     }
 }
