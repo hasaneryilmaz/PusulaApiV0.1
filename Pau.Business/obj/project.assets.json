@@ -1253,6 +1253,19 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
+      "Pau.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "3.1.3"
+        },
+        "compile": {
+          "bin/placeholder/Pau.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pau.Core.dll": {}
+        }
+      },
       "Pau.DataAccess/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -1270,6 +1283,9 @@
       "Pau.Entities/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Pau.Core": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Pau.Entities.dll": {}
         },
@@ -4942,6 +4958,11 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
+    "Pau.Core/1.0.0": {
+      "type": "project",
+      "path": "../Pau.Core/Pau.Core.csproj",
+      "msbuildProject": "../Pau.Core/Pau.Core.csproj"
+    },
     "Pau.DataAccess/1.0.0": {
       "type": "project",
       "path": "../Pau.DataAccess/Pau.DataAccess.csproj",
@@ -4960,45 +4981,38 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hasan\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\emreh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Data\\Documents\\Visual Studio 2019\\Projects\\PauApiV0.1\\PusulaApiV0.1\\Pau.Business\\Pau.Business.csproj",
+      "projectUniqueName": "D:\\Visual Studio 2019 Kodlar\\PusulaApiV0.1\\Pau.Business\\Pau.Business.csproj",
       "projectName": "Pau.Business",
-      "projectPath": "D:\\Data\\Documents\\Visual Studio 2019\\Projects\\PauApiV0.1\\PusulaApiV0.1\\Pau.Business\\Pau.Business.csproj",
-      "packagesPath": "C:\\Users\\hasan\\.nuget\\packages\\",
-      "outputPath": "D:\\Data\\Documents\\Visual Studio 2019\\Projects\\PauApiV0.1\\PusulaApiV0.1\\Pau.Business\\obj\\",
+      "projectPath": "D:\\Visual Studio 2019 Kodlar\\PusulaApiV0.1\\Pau.Business\\Pau.Business.csproj",
+      "packagesPath": "C:\\Users\\emreh\\.nuget\\packages\\",
+      "outputPath": "D:\\Visual Studio 2019 Kodlar\\PusulaApiV0.1\\Pau.Business\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\hasan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\emreh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://packagesource": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Data\\Documents\\Visual Studio 2019\\Projects\\PauApiV0.1\\PusulaApiV0.1\\Pau.DataAccess\\Pau.DataAccess.csproj": {
-              "projectPath": "D:\\Data\\Documents\\Visual Studio 2019\\Projects\\PauApiV0.1\\PusulaApiV0.1\\Pau.DataAccess\\Pau.DataAccess.csproj"
+            "D:\\Visual Studio 2019 Kodlar\\PusulaApiV0.1\\Pau.DataAccess\\Pau.DataAccess.csproj": {
+              "projectPath": "D:\\Visual Studio 2019 Kodlar\\PusulaApiV0.1\\Pau.DataAccess\\Pau.DataAccess.csproj"
             },
-            "D:\\Data\\Documents\\Visual Studio 2019\\Projects\\PauApiV0.1\\PusulaApiV0.1\\Pau.Entities\\Pau.Entities.csproj": {
-              "projectPath": "D:\\Data\\Documents\\Visual Studio 2019\\Projects\\PauApiV0.1\\PusulaApiV0.1\\Pau.Entities\\Pau.Entities.csproj"
+            "D:\\Visual Studio 2019 Kodlar\\PusulaApiV0.1\\Pau.Entities\\Pau.Entities.csproj": {
+              "projectPath": "D:\\Visual Studio 2019 Kodlar\\PusulaApiV0.1\\Pau.Entities\\Pau.Entities.csproj"
             }
           }
         }
@@ -5027,7 +5041,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

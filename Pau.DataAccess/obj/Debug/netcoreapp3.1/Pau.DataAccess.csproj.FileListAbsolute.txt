@@ -30,3 +30,21 @@ D:\Data\Documents\Visual Studio 2019\Projects\PauApiV0.1\PusulaApiV0.1\Pau.DataA
 D:\Data\Documents\Visual Studio 2019\Projects\PauApiV0.1\PusulaApiV0.1\Pau.DataAccess\obj\Debug\netcoreapp3.1\Pau.DataAccess.dll
 D:\Data\Documents\Visual Studio 2019\Projects\PauApiV0.1\PusulaApiV0.1\Pau.DataAccess\obj\Debug\netcoreapp3.1\Pau.DataAccess.pdb
 D:\Data\Documents\Visual Studio 2019\Projects\PauApiV0.1\PusulaApiV0.1\Pau.DataAccess\obj\Debug\netcoreapp3.1\Pau.DataAccess.genruntimeconfig.cache
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.DataAccess\bin\Debug\netcoreapp3.1\Pau.DataAccess.deps.json
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.DataAccess\bin\Debug\netcoreapp3.1\Pau.DataAccess.runtimeconfig.json
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.DataAccess\bin\Debug\netcoreapp3.1\Pau.DataAccess.runtimeconfig.dev.json
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.DataAccess\bin\Debug\netcoreapp3.1\Pau.DataAccess.dll
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.DataAccess\bin\Debug\netcoreapp3.1\Pau.DataAccess.pdb
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.DataAccess\bin\Debug\netcoreapp3.1\Pau.Core.dll
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.DataAccess\bin\Debug\netcoreapp3.1\Pau.Entities.dll
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.DataAccess\bin\Debug\netcoreapp3.1\Pau.Entities.pdb
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.DataAccess\bin\Debug\netcoreapp3.1\Pau.Core.pdb
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.DataAccess\obj\Debug\netcoreapp3.1\Pau.DataAccess.csproj.AssemblyReference.cache
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.DataAccess\obj\Debug\netcoreapp3.1\Pau.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.DataAccess\obj\Debug\netcoreapp3.1\Pau.DataAccess.AssemblyInfoInputs.cache
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.DataAccess\obj\Debug\netcoreapp3.1\Pau.DataAccess.AssemblyInfo.cs
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.DataAccess\obj\Debug\netcoreapp3.1\Pau.DataAccess.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.DataAccess\obj\Debug\netcoreapp3.1\Pau.DataAccess.csproj.CopyComplete
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.DataAccess\obj\Debug\netcoreapp3.1\Pau.DataAccess.dll
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.DataAccess\obj\Debug\netcoreapp3.1\Pau.DataAccess.pdb
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.DataAccess\obj\Debug\netcoreapp3.1\Pau.DataAccess.genruntimeconfig.cache

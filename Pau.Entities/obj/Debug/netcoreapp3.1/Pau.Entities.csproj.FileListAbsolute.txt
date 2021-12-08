@@ -18,3 +18,16 @@ D:\Data\Documents\Visual Studio 2019\Projects\PauApiV0.1\PusulaApiV0.1\Pau.Entit
 D:\Data\Documents\Visual Studio 2019\Projects\PauApiV0.1\PusulaApiV0.1\Pau.Entities\obj\Debug\netcoreapp3.1\Pau.Entities.csproj.CoreCompileInputs.cache
 D:\Data\Documents\Visual Studio 2019\Projects\PauApiV0.1\PusulaApiV0.1\Pau.Entities\obj\Debug\netcoreapp3.1\Pau.Entities.dll
 D:\Data\Documents\Visual Studio 2019\Projects\PauApiV0.1\PusulaApiV0.1\Pau.Entities\obj\Debug\netcoreapp3.1\Pau.Entities.pdb
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.Entities\bin\Debug\netcoreapp3.1\Pau.Entities.deps.json
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.Entities\bin\Debug\netcoreapp3.1\Pau.Entities.dll
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.Entities\bin\Debug\netcoreapp3.1\Pau.Entities.pdb
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.Entities\bin\Debug\netcoreapp3.1\Pau.Core.dll
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.Entities\bin\Debug\netcoreapp3.1\Pau.Core.pdb
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.Entities\obj\Debug\netcoreapp3.1\Pau.Entities.csproj.AssemblyReference.cache
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.Entities\obj\Debug\netcoreapp3.1\Pau.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.Entities\obj\Debug\netcoreapp3.1\Pau.Entities.AssemblyInfoInputs.cache
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.Entities\obj\Debug\netcoreapp3.1\Pau.Entities.AssemblyInfo.cs
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.Entities\obj\Debug\netcoreapp3.1\Pau.Entities.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.Entities\obj\Debug\netcoreapp3.1\Pau.Entities.csproj.CopyComplete
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.Entities\obj\Debug\netcoreapp3.1\Pau.Entities.dll
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.Entities\obj\Debug\netcoreapp3.1\Pau.Entities.pdb

@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Pau.Core\Pau.Core.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -1,10 +1,11 @@
-﻿using System;
+﻿using Pau.Core.Entities.Abstract;
+using System;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Pau.Entities
 {
-    public class User
+    public class User:IEntity
     {
 
         [Key,DatabaseGenerated(DatabaseGeneratedOption.Identity)]

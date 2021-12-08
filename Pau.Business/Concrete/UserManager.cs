@@ -21,24 +21,24 @@ namespace Pau.Business.Concrete
 
         public User CreateUser(User user)
         {
-            return _userRepository.CreatUser(user);
+            return _userRepository.Create(user);
         }
 
         public void DeleteUser(int id)
         {
-            _userRepository.DeleteUser(id);
+            _userRepository.Delete(id);
         }
 
         public List<User> GetAllUsers()
         {
-            return _userRepository.GetAllUsers(); 
+            return _userRepository.GetAll(); 
         }
 
         public User GetUserById(int id)
         {
             if(id > 0)
             {
-                return _userRepository.GetUserById(id);
+                return _userRepository.GetById(u => u.Id == id);
             }
 
             throw new Exception("Id 1 den küçük olamaz");
@@ -47,7 +47,7 @@ namespace Pau.Business.Concrete
 
         public User UpdateUser(User user)
         {
-            return _userRepository.UpdateUser(user);
+            return _userRepository.Update(user);
         }
     }
 }

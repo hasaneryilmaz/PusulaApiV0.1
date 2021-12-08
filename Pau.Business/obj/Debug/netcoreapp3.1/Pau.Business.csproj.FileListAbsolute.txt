@@ -28,3 +28,20 @@ D:\Data\Documents\Visual Studio 2019\Projects\PauApiV0.1\PusulaApiV0.1\Pau.Busin
 D:\Data\Documents\Visual Studio 2019\Projects\PauApiV0.1\PusulaApiV0.1\Pau.Business\obj\Debug\netcoreapp3.1\Pau.Business.csproj.CopyComplete
 D:\Data\Documents\Visual Studio 2019\Projects\PauApiV0.1\PusulaApiV0.1\Pau.Business\obj\Debug\netcoreapp3.1\Pau.Business.dll
 D:\Data\Documents\Visual Studio 2019\Projects\PauApiV0.1\PusulaApiV0.1\Pau.Business\obj\Debug\netcoreapp3.1\Pau.Business.pdb
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.Business\bin\Debug\netcoreapp3.1\Pau.Business.deps.json
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.Business\bin\Debug\netcoreapp3.1\Pau.Business.dll
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.Business\bin\Debug\netcoreapp3.1\Pau.Business.pdb
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.Business\bin\Debug\netcoreapp3.1\Pau.Core.dll
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.Business\bin\Debug\netcoreapp3.1\Pau.DataAccess.dll
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.Business\bin\Debug\netcoreapp3.1\Pau.Entities.dll
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.Business\bin\Debug\netcoreapp3.1\Pau.DataAccess.pdb
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.Business\bin\Debug\netcoreapp3.1\Pau.Entities.pdb
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.Business\bin\Debug\netcoreapp3.1\Pau.Core.pdb
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.Business\obj\Debug\netcoreapp3.1\Pau.Business.csproj.AssemblyReference.cache
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.Business\obj\Debug\netcoreapp3.1\Pau.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.Business\obj\Debug\netcoreapp3.1\Pau.Business.AssemblyInfoInputs.cache
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.Business\obj\Debug\netcoreapp3.1\Pau.Business.AssemblyInfo.cs
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.Business\obj\Debug\netcoreapp3.1\Pau.Business.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.Business\obj\Debug\netcoreapp3.1\Pau.Business.csproj.CopyComplete
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.Business\obj\Debug\netcoreapp3.1\Pau.Business.dll
+D:\Visual Studio 2019 Kodlar\PusulaApiV0.1\Pau.Business\obj\Debug\netcoreapp3.1\Pau.Business.pdb

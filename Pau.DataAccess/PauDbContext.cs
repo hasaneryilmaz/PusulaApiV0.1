@@ -12,7 +12,7 @@ namespace Pau.DataAccess
         {
             
             base.OnConfiguring(optionsBuilder);
-            optionsBuilder.UseSqlServer("Server=192.168.147.21; Database=PauTest;uid=hasan;pwd=a123*!");
+            optionsBuilder.UseSqlServer("Server=192.168.147.21; Database=PauTest;Trusted_Connection=True;uid=hasan;pwd=a123*!");
         }
 
         public DbSet<User> Users { get; set; }

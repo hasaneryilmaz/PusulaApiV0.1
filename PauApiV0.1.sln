@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31829.152
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pau.Entities", "Pau.Entities\Pau.Entities.csproj", "{33D715E5-D213-42C8-89EA-556E1F20A3AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pau.Entities", "Pau.Entities\Pau.Entities.csproj", "{33D715E5-D213-42C8-89EA-556E1F20A3AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pau.DataAccess", "Pau.DataAccess\Pau.DataAccess.csproj", "{C42835A6-6514-424D-9249-E47A54FB2C14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pau.DataAccess", "Pau.DataAccess\Pau.DataAccess.csproj", "{C42835A6-6514-424D-9249-E47A54FB2C14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pau.Business", "Pau.Business\Pau.Business.csproj", "{C034484E-F6B5-4F82-AB62-7561A1B6C038}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pau.Business", "Pau.Business\Pau.Business.csproj", "{C034484E-F6B5-4F82-AB62-7561A1B6C038}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pau.API", "Pau.API\Pau.API.csproj", "{FAEAD1DF-FBB8-46FE-8C81-DF56AF005C93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pau.API", "Pau.API\Pau.API.csproj", "{FAEAD1DF-FBB8-46FE-8C81-DF56AF005C93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pau.Core", "Pau.Core\Pau.Core.csproj", "{DA8C39FD-CB06-414F-9402-D6E37B064B69}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{FAEAD1DF-FBB8-46FE-8C81-DF56AF005C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAEAD1DF-FBB8-46FE-8C81-DF56AF005C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAEAD1DF-FBB8-46FE-8C81-DF56AF005C93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA8C39FD-CB06-414F-9402-D6E37B064B69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8C39FD-CB06-414F-9402-D6E37B064B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8C39FD-CB06-414F-9402-D6E37B064B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8C39FD-CB06-414F-9402-D6E37B064B69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

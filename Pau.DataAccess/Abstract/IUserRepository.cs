@@ -1,21 +1,13 @@
-﻿using Pau.Entities;
+﻿using Pau.Core.DataAccess.Abtrsact;
+using Pau.Entities;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace Pau.DataAccess.Abstract
 {
-    public interface IUserRepository
+    public interface IUserRepository:IEntityRepository<User>
     {
 
-        List<User> GetAllUsers();
-
-        User GetUserById(int id);
-
-        User CreatUser(User user);
-
-        User UpdateUser(User user);
-
-        void DeleteUser(int id);
     }
 }
